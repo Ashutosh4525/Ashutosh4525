@@ -1,14 +1,16 @@
 <!-- Header -->
-<h1 align="center">Hi there, I'm Ashutosh 👋</h1>
+ <div align="center">
+  <h1>Hi there, I'm Ashutosh 👋</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=00C2FF&center=true&vCenter=true&width=500&lines=MERN+Full+Stack+Developer;Generative+AI+%26+AI+Agents+Enthusiast;Java+%26+Spring+Boot+Enthusiast;Passionate+About+DSA+%26+Web+Dev;Always+Learning+New+Things" alt="Typing Animation" />
+</div>
 
 <p align="center">
   🚀 MERN Stack Developer | ☕ Java Enthusiast | 🌱 Lifelong Learner
 </p>
 
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=360&lines=MERN+Full+Stack+Developer;Java+%26+Spring+Boot+Enthusiast;Passionate+About+DSA+%26+Web+Dev;Always+Learning+New+Things" alt="Typing SVG" />
-</div>
+
+
+
 
 ---
 
@@ -16,8 +18,9 @@
 - 🌱 Currently exploring **MERN (MongoDB, Express, React, Node.js)**
 - ☕ Strong passion for **Java & Spring Boot**
 - 💡 Love solving problems with **Data Structures & Algorithms**
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
 - ⚡ Fun fact: I enjoy building side projects that challenge me 🚀
+<!-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)-->
+
 
 ---
 
@@ -50,7 +53,26 @@
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh4525&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=79ff97" height="180px"/>
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Ashutosh4525&theme=radical&hide_border=true&background=0D1117&ring=00C2FF&fire=FF4500&currStreakLabel=FFFFFF" height="180px"/>
+
+</div>
+
+<div align="center">
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh4525&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF" height="160px"/>
+
+</div>
+
+
+<!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh4525&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh4525&theme=tokyonight" height="160"/>
 </div>
@@ -72,6 +94,7 @@
 ## ✨ Fun Extras
 - 🎯 Random Dev Quote  
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+-->
 
 - 🐍 Contribution Snake  
   ![snake gif](https://github.com/Ashutosh4525/Ashutosh4525/blob/output/github-contribution-grid-snake.gif)

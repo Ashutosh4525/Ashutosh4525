@@ -94,10 +94,16 @@
 ## ✨ Fun Extras
 - 🎯 Random Dev Quote  
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
--->
+
 
 - 🐍 Contribution Snake  
   ![snake gif](https://github.com/Ashutosh4525/Ashutosh4525/blob/output/github-contribution-grid-snake.gif)
+-->
+
+  ## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github.com/Ashutosh4525/Ashutosh4525/blob/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 

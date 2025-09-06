@@ -1,58 +1,71 @@
-## Hi there 👋
-
-<!-- Banner or Header -->
-<h1 align="center">
-  Hi there, I'm Ashutosh 👋  
-</h1>
+<!-- Header -->
+<h1 align="center">Hi there, I'm Ashutosh 👋</h1>
 
 <p align="center">
-  🚀 Full Stack Developer | 💻 Java | ⚡ MERN | 📱 Android  
+  🚀 MERN Stack Developer | ☕ Java Enthusiast | 🌱 Lifelong Learner
 </p>
 
 <!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=435&lines=Full+Stack+Web+Developer;Java+%26+Spring+Boot+Specialist;MERN+Stack+Explorer;Android+Developer" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=360&lines=MERN+Full+Stack+Developer;Java+%26+Spring+Boot+Enthusiast;Passionate+About+DSA+%26+Web+Dev;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
 
 ---
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **Full Stack Development**
-- 💬 Ask me about **Java, Spring Boot, React, Node.js**
+- 🌱 Currently exploring **MERN (MongoDB, Express, React, Node.js)**
+- ☕ Strong passion for **Java & Spring Boot**
+- 💡 Love solving problems with **Data Structures & Algorithms**
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
-- ⚡ Fun fact: I love building side projects & teaching code
+- ⚡ Fun fact: I enjoy building side projects that challenge me 🚀
 
 ---
 
 ## 🛠️ Tech Stack
+
+### 🚀 MERN Stack
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"/>
+</p>
+
+### ☕ Java Enthusiast
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"/>
+</p>
+
+### 🌐 Web & Tools
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh4525&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh4525&theme=tokyonight" height="160"/>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh4525&layout=compact&theme=tokyonight" height="160"/>
-</p>
+</div>
 
 ---
 
 ## 🚀 Projects
-- [🔗 Portfolio Website](https://github.com/Ashutosh4525/portfolio)
-- [📦 To-Do App](https://github.com/Ashutosh4525/todo-app)
-- [🌐 REST API with Spring Boot](https://github.com/Ashutosh4525/springboot-api)
+- [🌐 MERN Blog App](https://github.com/Ashutosh4525/mern-blog)
+- [📦 To-Do App (React + Node.js)](https://github.com/Ashutosh4525/todo-app)
+- [☕ Spring Boot REST API](https://github.com/Ashutosh4525/springboot-api)
+- [💻 DSA Playground](https://github.com/Ashutosh4525/dsa-practice)
 
 ---
 
@@ -77,6 +90,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 <!--
 **Ashutosh4525/Ashutosh4525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

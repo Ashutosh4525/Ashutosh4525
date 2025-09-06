@@ -102,7 +102,7 @@
 
   ## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://github.com/Ashutosh4525/Ashutosh4525/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Ashutosh4525/Ashutosh4525/output/snake.svg" alt="Snake animation"/>
 </div>
 
 ---

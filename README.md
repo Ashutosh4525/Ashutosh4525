@@ -52,17 +52,17 @@
 
 ---
 
-## 📊 GitHub Stats
+  <!--## 📊 GitHub Stats
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh4525&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=79ff97" height="180px"/>
+ GitHub Stats 
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh4525&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=79ff97" height="180px"/>-->
 
-  <!-- Streak Stats -->
+  <!-- Streak Stats 
   <img src="https://streak-stats.demolab.com?user=Ashutosh4525&theme=radical&hide_border=true&background=0D1117&ring=00C2FF&fire=FF4500&currStreakLabel=FFFFFF" height="180px"/>
 
-</div>
+</div>-->
 
 <div align="center">
   

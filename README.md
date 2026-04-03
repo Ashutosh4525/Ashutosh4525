@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" color="white";/>
 </p>
 
 ---
@@ -109,7 +109,7 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/ashutosh-pal-69922a253">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ashutoshpal47@gmail.com">
